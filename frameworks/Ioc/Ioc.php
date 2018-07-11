@@ -6,8 +6,6 @@
  */
 namespace Framelibs\Ioc;
 
-use Framelibs\Test\A;
-
 class Ioc
 {
     /**
