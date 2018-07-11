@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::get('/learn/state', ['uses'=>'Learn\StateLearnController@index']);
+Route::get('/ioc/test', ['uses'=>'Ioc\IocController@index']);
